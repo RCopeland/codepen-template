@@ -1,0 +1,18 @@
+{
+  "name": "codepen-template",
+  "version": "1.0.0",
+  "description": "A template for use in working on codepens, outside of codepen.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "@roblcopeland",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "prettier": "2.3.2",
+    "sass": "^1.37.0"
+  }
+}
